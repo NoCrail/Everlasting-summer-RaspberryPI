@@ -29,3 +29,6 @@ sudo chmod +x Everlasting\ Summer.sh
 + Perfomance on **RPI4** with 2gb RAM is good. About 900p window shows 30fps (without monitoring it's not capturable, feels like 60fps) opening in prologue plays well. Сan be played comfortably
 
 On both computers loading is quite long (1+ minute). Htop shows that game uses only one thread, so be patient.
+## Disclaimer
+I don' have any rights for the game and engine files. I just collected all needed files with RenPy SDK and posted it here for peoples' convenience. 
+Not all files from repository are really needed. The most important are libs folder and sh file. But replacing just them throws errors while loading. I'm too lazy to find out which are really needed, so I posted full folder. Maybe I will optimize it later
